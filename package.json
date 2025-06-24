@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "@distube/ytdl-core": "^4.16.10",
+    "body-parser": "^2.2.0",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.15",
+    "opusscript": "^0.0.8",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
